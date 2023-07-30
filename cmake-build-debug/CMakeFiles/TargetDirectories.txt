@@ -1,0 +1,3 @@
+/home/lsc/repo/1in69t/cmake-build-debug/CMakeFiles/1in69t.elf.dir
+/home/lsc/repo/1in69t/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lsc/repo/1in69t/cmake-build-debug/CMakeFiles/rebuild_cache.dir
